@@ -5,7 +5,7 @@
 - 💻 I'm a Backend Developer. I studied Pytnon and the Django framework.
 - 📚 I'm currently learning JavaScript and React framework.
 - 🌍 I love to travel and visit new, interesting places.
-- 🤩 I'm like write code and whant to be Full Stack Developer.
+- 🤩 I'm like write code and want to be Full Stack Developer.
 - 🤔 I’m looking  for an internship to gain experience
 
 ### Connect with me:
