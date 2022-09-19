@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="icons/pytnon.png"/>
+<img align="left" alt="Python" width="26px" src="icons/pytnon.png" />
 
 
 <br />
