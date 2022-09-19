@@ -16,12 +16,12 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="icons/python.png" />
+<img align="left" alt="Python" width="30px" src="icons/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="icons/js.png" />
 <img align="left" alt="Django" width="26px" src="icons/django.png" />
 <img align="left" alt="React" width="26px" src="icons/react.png" />
 <img align="left" alt="HTML" width="26px" src="icons/html5.png" />
-<img align="left" alt="CSS" width="26px" src="icons/css3.png" />
+<img align="left" alt="CSS" width="22px" src="icons/css3.png" />
 
 
 
