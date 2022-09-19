@@ -9,14 +9,14 @@
 - 🤔 I’m looking  for an internship to gain experience
 
 ### Connect with me:
-[<img align="left" alt="Pepperhotmsk | Telegram "width=26px" src="telegram.jpg">][telegram]
-[<img align="left" alt="Pepperhotmsk | Linkedin "width=26px" src="likedin.jpeg">][linkedin]
+[<img align="left" alt="Pepperhotmsk | Telegram" width="26px" src="telegram.jpg">][telegram]
+[<img align="left" alt="Pepperhotmsk | Linkedin" width="26px" src="likedin.jpeg">][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" "width=26px" src="https://raw.githubusercontent.com/blackcatprog/folder-icons/main/Languages%20Programming/python.ico/>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/blackcatprog/folder-icons/main/Languages%20Programming/python.ico/>
 
 
 <br />
