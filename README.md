@@ -9,8 +9,8 @@
 - 🤔 I’m looking  for an internship to gain experience
 
 ### Connect with me:
-[<img align="left" alt="Pepperhotmsk | Instagram "width=26px" src="telegram.jpeg">][telegram]
-[<img align="left" alt="Pepperhotmsk | Instagram "width=26px" src="likedin.jpeg">][linkedin]
+[<img align="left" alt="Pepperhotmsk | Telegram "width=26px" src="telegram.jpg">][telegram]
+[<img align="left" alt="Pepperhotmsk | Linkedin "width=26px" src="likedin.jpeg">][linkedin]
 
 <br />
 
