@@ -10,13 +10,13 @@
 
 ### Connect with me:
 [<img align="left" alt="Pepperhotmsk | Telegram" width="26px" src="icons/telegram.jpg">][telegram]
-[<img align="left" alt="Pepperhotmsk | Linkedin" width="26px" src="icons/likedin.png">][linkedin]
+[<img align="left" alt="Pepperhotmsk | Linkedin" width="26px" src="icons/linkedin.png">][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="icons/pytnon.png"
+<img align="left" alt="Python" width="26px" src="icons/pytnon.png"/>
 
 
 <br />
