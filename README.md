@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Stasread.
+### Hi there 👋! I'm Stas.
 
 ### About me
 
